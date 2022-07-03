@@ -1,8 +1,7 @@
 #include <stdio.h>
 /*
 	* function main is the entry point
-	*
-	* Description: the project will describe the provided string
+	* Description 'the project will describe the provided string'
 	*
 	* Return: Always 0 (sucess)
 	*/
