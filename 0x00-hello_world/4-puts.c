@@ -1,7 +1,10 @@
 #include <stdio.h>
 /
-	*main - Entry point
-	*Return: Always 0 (sucess)
+	* main - Entry point
+	*
+	* Description: this programme will describe the string provided
+	*
+	* Return: Always 0 (sucess)
 	*/
 int main(void)
 {
