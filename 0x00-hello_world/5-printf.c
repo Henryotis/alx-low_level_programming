@@ -2,6 +2,9 @@
 
 	/*
 	* main - Entry point
+	*
+	* Description: this project prints with proper grammer
+	*
 	* Return: Always 0 (success)
 	*/
 int main(void)

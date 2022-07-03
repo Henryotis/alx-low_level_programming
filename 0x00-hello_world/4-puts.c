@@ -1,10 +1,16 @@
 #include <stdio.h>
 /*
- * main - Entry point
- * Return: Always 0 (sucess)
- */
+	* function main is the entry point
+	*
+	* Description: the project will describe the provided string
+	*
+	* Return: Always 0 (sucess)
+	*/
 int main(void)
+	/*
+	 * this is the entry point
+	 */
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
